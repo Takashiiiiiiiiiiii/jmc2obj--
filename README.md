@@ -1,4 +1,4 @@
-# jmc2obj--
+# jmc2obj
 説明:
 Jmc2obj用日本語化パッチ
 　
@@ -10,5 +10,9 @@ Jmc2obj用日本語化パッチ
 5、先ほどダウンロードしてきたJmc2obj用日本語化パッチの中のmassage_pl.propertiesをmassage.propertiesと同じディレクトリに入れる。
 6、jmc2objを起動させて設定を押して言語をポルトガル語にしてください。
 7、そして、jmc2objを再起動すれば日本語になってるとおもいます。
+(翻訳がおかしいところは気にしないで下さい)
+
+何かあったらここまで!
+ simibot01@gmail.com
 
 
