@@ -15,4 +15,5 @@ Jmc2obj用日本語化パッチ
 何かあったらここまで!
  simibot01@gmail.com
 
+Jmc2obj:https://github.com/jmc2obj/j-mc-2-obj
 
